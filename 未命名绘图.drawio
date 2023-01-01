@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2023-01-01T03:21:16.927Z" agent="5.0 (Macintosh)" version="20.7.4" etag="r50DxcdH0F0Hk6nWim_S" type="github"><diagram id="jLkkD2aRbcJvcrWBPk0T">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-01T03:24:21.159Z" agent="5.0 (Macintosh)" version="20.7.4" etag="d1Dwvw47xrR7EJvGdtr5" type="github">
+  <diagram id="-VDV9bP9VWPFf9jl1y2x" name="第 1 页">
+    <mxGraphModel dx="954" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TA_lndH5PJbWCHXY6ex--6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TA_lndH5PJbWCHXY6ex--1" target="TA_lndH5PJbWCHXY6ex--3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TA_lndH5PJbWCHXY6ex--1" value="用户交互发生更新" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="50" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TA_lndH5PJbWCHXY6ex--7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TA_lndH5PJbWCHXY6ex--3" target="TA_lndH5PJbWCHXY6ex--4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TA_lndH5PJbWCHXY6ex--3" value="Scheduler" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="130" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TA_lndH5PJbWCHXY6ex--8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TA_lndH5PJbWCHXY6ex--4" target="TA_lndH5PJbWCHXY6ex--5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TA_lndH5PJbWCHXY6ex--4" value="Reconciler" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="210" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TA_lndH5PJbWCHXY6ex--5" value="Renderer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="290" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TA_lndH5PJbWCHXY6ex--9" value="优先级调度" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="130" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TA_lndH5PJbWCHXY6ex--10" value="计算更新" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="210" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TA_lndH5PJbWCHXY6ex--11" value="执行更新操作" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="379" y="290" width="70" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
